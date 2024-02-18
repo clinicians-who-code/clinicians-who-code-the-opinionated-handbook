@@ -1,6 +1,6 @@
-site_name: Digital Clinical Saefty Platform
-site_description: Hazard logging system
-site_author: Digital Clinical Safety Alliance
+site_name: Clinicians who code - The Opinionated Handbook
+site_description: A handbook for clinicians who code
+site_author: Clinicians who code
 
 plugins:
   - search
@@ -8,17 +8,13 @@ plugins:
 theme:
   name: material
   logo: assets/favicon.ico
-  favicon: assets/favicon2.ico
+  favicon: assets/favicon.ico
 
   features:
     - navigation.instant
-    # uncomment the below two lines for Tabbed navigation (along the header bar)
-    # - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.tracking
     - navigation.top
     - navigation.expand
-    # - toc.integrate
 
   palette:
     # Palette toggle for light mode
@@ -47,9 +43,8 @@ copyright: Clinicians-who-code
 
 # these lines configure the 'GitHub repo' widget on the top right
 # uncomment to enable
-repo_url: https://github.com/digital-clinical-safety-alliance/digital-clinical-safety-platform
-repo_name: digital-clinical-safety-platform
-edit_uri: blob/main/clinical-safety-management-file
+repo_url: https://github.com/clinicians-who-code/clinicians-who-code-the-opinionated-handbook
+repo_name: The handbook repository
 
 # additional markdown features
 markdown_extensions:
