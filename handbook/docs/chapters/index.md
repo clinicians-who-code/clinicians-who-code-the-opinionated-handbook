@@ -1,3 +1,3 @@
 # Chapters
 
-[example](example.md)
+[example](chapters/example/example.md)

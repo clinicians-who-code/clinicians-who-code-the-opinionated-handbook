@@ -1,6 +1,6 @@
 # Editors
 
-The editors of the `Clincians who code - The Opinonated Handbook` include (in alphabetical order):
+The editors of the **Clincians who code - The Opinonated Handbook** include (in alphabetical order):
 
 * Mark Bailey (@Cotswoldsmaker)
 * Marcus Baw (@pacharanero)
