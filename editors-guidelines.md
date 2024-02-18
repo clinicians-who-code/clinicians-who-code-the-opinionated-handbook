@@ -9,19 +9,19 @@ I fully appreciate that we are all professionals and I would have not asked you 
 
 Here are the guidelines:
 
-1. We work in * Pairs when writing content for the handbook (much like * Paired programming).
+1. We work in pairs when writing content for the handbook (much like paired programming).
 2. Content will be written to the handbook [github repository](https://github.com/clinicians-who-code/clinicians-who-code-the-opinionated-handbook).
-3. All content will be written in non-main / non-master branches. Please start separate branches for your * Pair. Remember to pull any new content before you start.
+3. All content will be written in non-main / non-master branches. Please start separate branches for your pair. Remember to pull any new content before you start.
 4. Content will be added to the main branch via a pull request.
-5. Each * Pair will meet every 2 week for 2 hours to write content for the handbook.
-6. Please message on the CWC Signal group which topic (or better yet subtopic) you will be working on for your session. We will give your * Pair (and content checker) 72 hours before anyone else can write to the same topic.
-7. After each session, the * Pair will push their new content to their own branch on Github and initiate a pull request.
+5. Each pair will meet every 2 week for 2 hours to write content for the handbook.
+6. Please message on the CWC Signal group which topic (or better yet subtopic) you will be working on for your session. We will give your pair (and content checker) 72 hours before anyone else can write to the same topic.
+7. After each session, the pair will push their new content to their own branch on Github and initiate a pull request.
 8. A third person (content checker) will then either accept or reject the pull request.
 9. When we start including others from outside our initial group, and perhaps they want to write content by themselves, then we will need two content checkers before we accept a pull request of new content.
 10. So overal, there are always 3 people (minimum) that have seen content before it is pulled to the main branch.
 11. Any issues you find regarding your content or others can be either discussed via the CWC Signal group or via Gtihub issues.
-12. * Pairs will be assigned at random and change every 6 weeks.
-13. A **content checker** will assigned to each * Pair and change every 6 weeks.
+12. Pairs will be assigned at random and change every 6 weeks.
+13. A **content checker** will assigned to each pair and change every 6 weeks.
 14. We will have a whole group meeting every 6 weeks.
 15. I appreciate work loads and holidays will affect the above regular meetings, and some slack is of course expected.
 16. And please remember to be kind to each other when commenting on each others work. People can get quite attached to what they write and feedback, no matter how well intended, can be difficult to stomach.
@@ -33,7 +33,7 @@ All of the topics we write will be placed in the **handbook/docs/chapters** fold
 We will be using markdown and its syntax for this handbook. Please see the [example](clinicians-who-code.org/chapters/example/example.md) for an example of the style. Please reference using hyperlinks other sections in this handbook as needed. Also, it is important to consider what is different between the **Clicians who code - The Opinionated Handbook** and any other book on clinical informatics. I think this different is that we should be looking at topics from the ground up: from the code level and upwards. So try and see how you can write content looking at things from a coders (computer science not disease code) point of view. Indeed, look at things from a **Clinicians who codes** point of view.
 
 ## Referencing
-I feel it is important that we make sure that what is written in this handbook is of a high quality. Hence, I feel we should consider referencing external material. Hyperlinks should be sufficient for this. We will need to have further discussions on how best to do this and how much we should reference. Also, we need to consider what calibre of material should we reference? Is a blog or personal opinion worth referencing, are we pushing more for academic works? I feel their might be a lack of high calibre acadmic research on a lot of the topics we will be ultimately covering, so referencing may be a difficult process to undertake for all topics. Let's work on this over the coming months.
+I feel it is important that we make sure that what is written in this handbook is of a high quality. Hence, I feel we should consider referencing external material. Hyperlinks should be sufficient for this. We will need to have further discussions on how best to do this and how much we should reference. Also, we need to consider what calibre of material should we reference? Is a blog or personal opinion worth referencing, are we pushing more for academic works? I feel there might be a lack of high calibre acadmic research on a lot of the topics we will be ultimately covering, so referencing may be a difficult process to undertake for all topics. Let's work on this over the coming months.
 
 ## Public view of the handbook
 When a pull request is accepted, **Github actions** will build pages using mkdocs material and then updated pages will be visible at [here](https://clinicians-who-code.org/)
@@ -41,8 +41,8 @@ When a pull request is accepted, **Github actions** will build pages using mkdoc
 ## First steps
 * Please add additional topics and subtopics to the **topics-brainstorm.txt** file. We want to try and cover all aspects of clinicial informatics.
 
-## * Pairing schedule
-With the help of ChatGPT, below is the * Pairing schedule:
+## Pairing schedule
+With the help of ChatGPT, below is the pairing schedule:
 
 ### Cycle 1: February 19 - March 31
 * Pair 1: Marcus Baw & Alex Brown
