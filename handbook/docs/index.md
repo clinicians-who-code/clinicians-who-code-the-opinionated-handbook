@@ -1,11 +1,4 @@
-# Welcome to the Digital Clinical Safety Platform (DCSP) App
+# Welcome to the Clinicians who code - The Opinionated Handbook
+Many thanks for showing an interest in this handbook. We hope that you find the contents of this handbook helpful and provide useful information for better understanding the interconnecting worlds of health care and programmatic code.
 
-This site contains the project documentation for the 'DCSP' app to enable a safer 
-and faster version controlled method for documenting hazards in clinical health
-technologies
-
-## Table Of Contents
-
-1. [Source code](code/index.md)
-2. [Acknowledgements](acknowledgements.md)
-3. [Developers](developers.md)
+## Pages
