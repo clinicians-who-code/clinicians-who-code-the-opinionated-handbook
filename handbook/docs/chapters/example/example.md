@@ -17,6 +17,7 @@ Lists (numbered):
 1. Anotehr numbered item.
 
 Code - indented 1 tab (4 spaces):
+    
     if sky_is_blue == True:
         sun = "shinning"
 
