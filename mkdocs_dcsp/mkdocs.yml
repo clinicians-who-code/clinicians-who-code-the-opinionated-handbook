@@ -2,18 +2,8 @@ site_name: Digital Clinical Saefty Platform
 site_description: Hazard logging system
 site_author: Digital Clinical Safety Alliance
 
-watch:
-  - ../app/dcsp/app
-
 plugins:
   - search
-  - mkdocstrings:
-      default_handler: python
-      handlers:
-        python:
-          rendering:
-            show_source: true
-          paths: [../app/dcsp/app, /dcsp/app/dcsp/app]
 
 theme:
   name: material
