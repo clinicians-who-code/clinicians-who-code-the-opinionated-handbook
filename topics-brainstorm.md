@@ -5,7 +5,12 @@ Please add any topic you can think of that is related to digital health. Try and
 Here are some topics to start with
 
 ## Clinical coding
-* SNOMED
+* SNOMED CT, including UK drug extension
+* UK dictionary of medicines and devices (dm+d)
+* Reference data such as
+    - organisation data services (ODS)
+    - socioeconomic deprivation
+    - NHS postcode database
 
 ## Data
 * Interoperability – openEHR
@@ -16,12 +21,17 @@ Here are some topics to start with
 
 ## Infrastructure
 
-# AI, machine learning, natural language processing and large data models
+## AI, machine learning, natural language processing and large data models
 * Machine Learning using python
 
-# Security
+## Security
 * Secure-by-design / cybersecurity
 * Caldicott 8 principles
+
+## Safety
+* Digital
+* Clinical
+* DCB0129 and DCB0160
 
 # Standards
 
