@@ -14,7 +14,7 @@ Lists (bullets):
 
 Lists (numbered):
 1. First numbered item.
-1. Anotehr numbered item.
+1. Another numbered item.
 
 Code - indented 1 tab (4 spaces):
     
