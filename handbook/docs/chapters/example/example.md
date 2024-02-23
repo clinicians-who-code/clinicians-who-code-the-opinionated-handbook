@@ -13,11 +13,10 @@ Lists (bullets):
 * Second listed item.
 
 Lists (numbered):
+
 1. First numbered item.
 1. Another numbered item.
 
 Code - indented 1 tab (4 spaces):
-    
     if sky_is_blue == True:
         sun = "shining"
-
