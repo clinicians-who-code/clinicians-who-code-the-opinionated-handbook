@@ -18,7 +18,7 @@ An **ontology** is the subject of studying the relationships between objects.
 
 
 ## Different terminologies
-* [SNOMED](snomed/index.md)
+* [SNOMED](snomed-ct/index.md)
 * [Read code](read-codes/index.md)
 * [icd](icd/index.md)
 
