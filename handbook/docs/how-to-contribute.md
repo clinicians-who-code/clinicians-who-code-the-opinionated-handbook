@@ -33,5 +33,10 @@ Hopefully you do not get an error. If so, some help will be needed.
 11. Once happy, click on the 3 circles and two squiggly lines (which should a have number on top of it in a circle).
 12. In the entry field, above the "Commit" button, type a description of what you have been working on. This is a "save point". 
 13. Hit the commit button.
-14. A 
+14. A "Sync Changes" button should appear. Hit this.
+15. You have now pushed your "save" to the Github external repository.
+16. If you pushed to the main branch, then this commit and push should start an automated process to build the static site with your changes at https://clinicians-who-code.github.io/clinicians-who-code-the-opinionated-handbook/.
+
+### Markdown
+We are using Markdown to write the content for this Handbook. Markdown is basically a simplified version of HTML (Hypertext markup language). There is a lot of useful resources online explaining the syntax [this](https://www.markdownguide.org/basic-syntax/) being one of them. 
 
