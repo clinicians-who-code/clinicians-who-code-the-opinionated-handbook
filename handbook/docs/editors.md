@@ -8,7 +8,7 @@ The editors of the **Clincians who code - The Opinionated Handbook** include (in
 * Joe Channing (@jcf54)
 * Simon Chapman (@eatyourpeas)
 * Paul Drake
-* Anita Phung
+* Anita Phung (@phungtastic1)
 * Sobath Premaratne
 * Kanthan Theivendran
 * Grant Vallance (@gdvallance)
