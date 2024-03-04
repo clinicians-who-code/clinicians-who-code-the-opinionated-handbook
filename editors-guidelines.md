@@ -44,7 +44,7 @@ When a pull request is accepted, **Github actions** will build pages using mkdoc
 ## Pairing schedule
 With the help of ChatGPT, below is the pairing schedule:
 
-### Cycle 1: February 19 - March 31
+### Cycle 1: March 4 - April 15
 * Pair 1: Marcus Baw & Alex Brown
 ** Reviewer: Sobath Premaratne (Reviewing * Pair 1)
 * Pair 2: Anita Phung & Simon Chapman
@@ -56,7 +56,7 @@ With the help of ChatGPT, below is the pairing schedule:
 * Pair 5: Paul Drake & Sobath Premaratne
 ** Reviewer: Joe Channing (Reviewing * Pair 5)
 
-### Cycle 2: April 1 - May 14
+### Cycle 2: April 16 - May 27
 * Pair 1: Anita Phung & Joe Channing
 ** Reviewer: Grant Vallance (Reviewing * Pair 1)
 * Pair 2: Sobath Premaratne & Paul Drake
@@ -68,7 +68,7 @@ With the help of ChatGPT, below is the pairing schedule:
 * Pair 5: Mark Bailey & Alex Brown
 ** Reviewer: Paul Drake (Reviewing * Pair 5)
 
-### Cycle 3: May 15 - June 28
+### Cycle 3: May 28 - June 8
 * Pair 1: Mark Wardle & Sobath Premaratne
 ** Reviewer: Anita Phung (Reviewing * Pair 1)
 * Pair 2: Paul Drake & Joe Channing
@@ -80,7 +80,7 @@ With the help of ChatGPT, below is the pairing schedule:
 * Pair 5: Kanthan Theivendran & Anita Phung
 ** Reviewer: Sobath Premaratne (Reviewing * Pair 5)
 
-### Cycle 4: June 29 - August 11
+### Cycle 4: June 9 - August 18
 * Pair 1: Paul Drake & Marcus Baw
 ** Reviewer: Simon Chapman (Reviewing * Pair 1)
 * Pair 2: Anita Phung & Mark Wardle
@@ -92,7 +92,7 @@ With the help of ChatGPT, below is the pairing schedule:
 * Pair 5: Joe Channing & Kanthan Theivendran
 ** Reviewer: Kanthan Theivendran (Reviewing * Pair 5)
 
-### Cycle 5: August 12 - September 24
+### Cycle 5: August 19 - September 30
 * Pair 1: Joe Channing & Marcus Baw
 ** Reviewer: Grant Vallance (Reviewing * Pair 1)
 * Pair 2: Anita Phung & Mark Bailey
@@ -104,7 +104,7 @@ With the help of ChatGPT, below is the pairing schedule:
 * Pair 5: Kanthan Theivendran & Alex Brown
 ** Reviewer: Paul Drake (Reviewing * Pair 5)
 
-### Cycle 6: September 25 - November 7
+### Cycle 6: October 1 - November 11
 * Pair 1: Kanthan Theivendran & Marcus Baw
 ** Reviewer: Anita Phung (Reviewing * Pair 1)
 * Pair 2: Grant Vallance & Mark Bailey
@@ -116,7 +116,7 @@ With the help of ChatGPT, below is the pairing schedule:
 * Pair 5: Simon Chapman & Anita Phung
 ** Reviewer: Alex Brown (Reviewing * Pair 5)
 
-### Cycle 7: November 8 - December 21
+### Cycle 7: November 12 - December 23
 * Pair 1: Marcus Baw & Alex Brown
 ** Reviewer: Sobath Premaratne (Reviewing * Pair 1)
 * Pair 2: Anita Phung & Simon Chapman
@@ -128,7 +128,7 @@ With the help of ChatGPT, below is the pairing schedule:
 * Pair 5: Paul Drake & Sobath Premaratne
 ** Reviewer: Joe Channing (Reviewing * Pair 5)
 
-### Cycle 8: December 22 - February 4
+### Cycle 8: December 24 - February 3
 * Pair 1: Anita Phung & Joe Channing
 ** Reviewer: Grant Vallance (Reviewing * Pair 1)
 * Pair 2: Sobath Premaratne & Paul Drake
@@ -140,7 +140,7 @@ With the help of ChatGPT, below is the pairing schedule:
 * Pair 5: Mark Bailey & Alex Brown
 ** Reviewer: Paul Drake (Reviewing * Pair 5)
 
-### Cycle 9: February 5 - March 19
+### Cycle 9: February 4 - March 17
 * Pair 1: Mark Wardle & Sobath Premaratne
 ** Reviewer: Anita Phung (Reviewing * Pair 1)
 * Pair 2: Paul Drake & Joe Channing
@@ -152,7 +152,7 @@ With the help of ChatGPT, below is the pairing schedule:
 * Pair 5: Kanthan Theivendran & Anita Phung
 ** Reviewer: Sobath Premaratne (Reviewing * Pair 5)
 
-### Cycle 10: March 20 - May 2
+### Cycle 10: March 18 - April 28
 * Pair 1: Paul Drake & Marcus Baw
 ** Reviewer: Simon Chapman (Reviewing * Pair 1)
 * Pair 2: Anita Phung & Mark Wardle
